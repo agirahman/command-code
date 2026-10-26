@@ -653,8 +653,8 @@
 		},
 		{
 			"name": "righthand",
-			"source": "righthand",
-			"npm": "righthand",
+			"source": "@agirahman/righthand",
+			"npm": "@agirahman/righthand",
 			"description": "Specialist agent personas and multi-agent orchestration engine for Herdr workspaces across coding harnesses.",
 			"author": {
 				"name": "agi",
