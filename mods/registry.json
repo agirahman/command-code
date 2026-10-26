@@ -653,7 +653,8 @@
 		},
 		{
 			"name": "commandcode-herdr-profile",
-			"source": "agirahman/commandcode-herdr-profile",
+			"source": "commandcode-herdr-profile",
+			"npm": "commandcode-herdr-profile",
 			"description": "Specialist agent personas and /profile mod for multi-agent Herdr workspaces, adapted from Addy Osmani agent-skills with ticket worktree isolation.",
 			"author": {
 				"name": "Agira Rahman",
